@@ -1,0 +1,36 @@
+_repo: Walks-and-Words-of-JesusA-Paragraph-Harmony-of-the-Four-Evangelists_35674
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Foster, Randolph S. (Randolph Sinks)
+    aliases:
+    - Foster, Bishop (Randolph Sinks)
+    - Foster, R. S. (Randolph Sinks)
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '37823'
+    url: http://www.gutenberg.org/2009/agents/37823
+  compiler:
+    agent_name: Olmsted, M. N. (Miles Newell)
+    alias: Olmsted, Miles Newell
+    birthdate: 1811
+    deathdate: 1885
+    gutenberg_agent_id: '37822'
+    url: http://www.gutenberg.org/2009/agents/37822
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Gospels -- Harmonies, English'
+title: 'Walks and Words of Jesus: A Paragraph Harmony of the Four Evangelists'
+url: http://www.gutenberg.org/ebooks/35674
